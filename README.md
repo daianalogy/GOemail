@@ -17,6 +17,8 @@ You can set the values to the variables needed and then, the programm will give 
 
 Follow the instructions and Copy the variables line with its encoded value.
 
+![Copy this line](https://i.imgur.com/sXdhqsl.png)
+
 Then in your **Linux Enviroment** apply the following command.
 
 
