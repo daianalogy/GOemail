@@ -39,6 +39,8 @@ Then in your **Linux Enviroment** apply the following command.
 
 You can set email configuration trough  enviroment variables before run this programm for the first time but it's up to you if you set encoded values or not.
 
-If you do it trought the first execution of this program your email configuration enviroment variables will be encoded. 
+If you do it trought the first execution of this program your email configuration enviroment variables will be encoded when you export them.
+
+This isn't a guarantee of a hard security but a layer.
 
 
