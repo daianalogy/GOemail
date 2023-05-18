@@ -5,9 +5,9 @@ My first golang program it purpose is to send emails to various recipients, you 
 
 ## ***How to use ?***
 
-This script requires the setting of some enviroments variables in order to function. These env vars are relate with our sender email. 
+This script requires the setting of some environments variables in order to function. These env vars are relate with our sender email. 
 
-You **require to export** these enviroment variables correctly.
+You **require to export** these environment variables correctly.
 
 *This programm help you with that task the first time you run it*
 
@@ -19,14 +19,14 @@ Follow the instructions and Copy the variables line with its encoded value.
 
 ![Copy this line](https://i.imgur.com/sXdhqsl.png)
 
-Then in your **Linux Enviroment** apply the following command.
+Then in your **Linux Environment** apply the following command.
 
 
-> export [paste your enviroment variables and encoded values here]
+> export [paste your environment variables and encoded values here]
 
 
 
-## **Enviroment Variables**
+## **Environment Variables**
 
 
 | Variable | Description | Test Value |
@@ -39,9 +39,9 @@ Then in your **Linux Enviroment** apply the following command.
 
 ## **About Security**
 
-You can set email configuration trough  enviroment variables before run this programm for the first time but it's up to you if you set encoded values or not.
+You can set email configuration trough  environment variables before run this programm for the first time but it's up to you if you set encoded values or not.
 
-If you do it trought the first execution of this program your email configuration enviroment variables will be encoded when you export them.
+If you do it trought the first execution of this program your email configuration environment variables will be encoded when you export them.
 
 This isn't a guarantee of a hard security but a layer.
 
